@@ -2,9 +2,11 @@
 # Welcome to Scott's version of the Rock, Paper, Scissors Game! #
 #################################################################
 
+
 import random # library needed to generate computer's turn
 import os
 import time
+
 
 def displayChoice(choice):
 # Simple function to display move choice for either player or CPU
